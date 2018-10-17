@@ -1,0 +1,224 @@
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\csc.exe
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\System.Collections.Immutable.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\System.Reflection.Metadata.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\vbc.exe
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\VBCSCompiler.exe
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\roslyn\VBCSCompiler.exe.config
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\sapnco_utils.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RSG\Visual\WFPrecios\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\csc.exe
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\System.Collections.Immutable.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\System.Reflection.Metadata.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\vbc.exe
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\VBCSCompiler.exe
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\roslyn\VBCSCompiler.exe.config
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\sapnco_utils.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RSG\Visual\WFPrecios.3\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios.3\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.3\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\csc.exe
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\System.Collections.Immutable.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\System.Reflection.Metadata.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\vbc.exe
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\VBCSCompiler.exe
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\roslyn\VBCSCompiler.exe.config
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\sapnco_utils.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RSG\Visual\WFPrecios.4\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios.4\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.4\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\csc.exe
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\System.Collections.Immutable.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\System.Reflection.Metadata.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\vbc.exe
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\VBCSCompiler.exe
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\roslyn\VBCSCompiler.exe.config
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\sapnco_utils.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RSG\Visual\WFPrecios.5\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios.5\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\sapnco_utils.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.IO.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.Runtime.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.Threading.Tasks.dll
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.IO.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.Runtime.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\bin\System.Threading.Tasks.xml
+F:\RSG\Visual\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.csproj.App.config
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\ApplicationInsights.config
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.dll.config
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\EPPlus.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Web.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.IO.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.Runtime.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.Threading.Tasks.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\EPPlus.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.Web.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.IO.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.Runtime.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\System.Threading.Tasks.xml
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.csproj.App.config
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.pdb
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Release\WFPrecios.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\sapnco.dll
+F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\sapnco_utils.dll
