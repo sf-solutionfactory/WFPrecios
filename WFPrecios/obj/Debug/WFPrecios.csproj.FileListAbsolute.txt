@@ -362,3 +362,42 @@ F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Debug\WFPr
 F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\sapnco.dll
 F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\bin\sapnco_utils.dll
 F:\RSG\Visual\WFPrecios.5v4 ANTES CANAL\WFPrecios.5v4.0\WFPrecios\obj\Debug\WFPrecios.csprojResolveAssemblyReference.cache
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\ApplicationInsights.config
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\WFPrecios.dll.config
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\WFPrecios.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\WFPrecios.pdb
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\EPPlus.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.Web.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.IO.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.Runtime.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.Threading.Tasks.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\EPPlus.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.Web.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.IO.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.Runtime.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\System.Threading.Tasks.xml
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\obj\Debug\WFPrecios.csproj.App.config
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\obj\Debug\WFPrecios.csprojResolveAssemblyReference.cache
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\obj\Debug\WFPrecios.csproj.CoreCompileInputs.cache
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\obj\Debug\WFPrecios.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\obj\Debug\WFPrecios.pdb
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\sapnco.dll
+C:\Users\SF-0022\Documents\GitHub\WFPrecios_antesCanal\WFPrecios\bin\sapnco_utils.dll
